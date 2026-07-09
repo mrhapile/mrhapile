@@ -2,29 +2,24 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Akash%20Anand&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%"/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3366FF&center=true&vCenter=true&width=435&lines=Competitive+Programmer;GSoC+%2F+LFX+Aspirant;C%2B%2B+%E2%80%A2+Open+Source+%E2%80%A2+Web" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/mrakashanand/">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-    </a>
-    <a href="https://linkedin.com/in/YOUR_LINK_HERE">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-  </p>
-</div>
-
-### 🟢 Live Status
-* 🟢 **Coding:** C++ (DSA / ICPC)
-* 🟡 **Learning:** Open Source Codebases & System Design
-* 🟢 **Building:** Hackathon Systems
-* 🔴 **Sleeping:** (Pending optimization...)
 
 <br>
 
+<img src="https://github.com/mrhapile/mrhapile/blob/main/94515.gif?raw=true" alt="Banner" width="100%" />
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+<p align="center">
+  <a href="https://github.com/mrhapile">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrhapile&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="mrhapile's GitHub Stats" />
+  </a>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=mrhapile&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=mrhapile&theme=radical&radius=10" alt="mrhapile's Activity Graph" />
+</p>
+
 
 ### 🚀 Featured Work (Dashboard)
 
@@ -93,23 +88,29 @@
 
 ---
 
-<details>
-<summary>⚡ <b>Click for a surprise (My Contribution Graph)</b></summary>
-<br>
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/mrhapile/snake-/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-</details>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhapile&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-  <br>
   <img src="https://komarev.com/ghpvc/?username=mrhapile&style=flat-square&color=blue" alt="Visitor Counter" />
+  <br>
+  <p align="center">
+  <a href="https://www.linkedin.com/in/mrakashanand/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/AkashAnand20035">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:akashanand.office@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mrhapile.me/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+  <img src="https://github.com/mrhapile/mrhapile/blob/main/dynamic-blue-ocean-wave-illustration-isolated-on-transparent-png.webp?raw=true" alt="Bottom Line" width="100%" />
 </div>
+
+

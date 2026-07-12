@@ -1,5 +1,4 @@
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Akash%20Anand&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%"/>
 <img src="https://github.com/mrhapile/mrhapile/blob/main/luffy%20GIF.gif?raw=true" alt="Banner" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
